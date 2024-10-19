@@ -15,3 +15,8 @@ Lorem ipsum. [About page](about)
 
 - [ ] Hola?
 - [x] Hecho
+
+
+## Strikethrough
+
+~funciona?~
