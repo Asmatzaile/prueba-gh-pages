@@ -3,3 +3,9 @@ Lorem ipsum. [About page](about)
 
 > [!TIP]
 > Is this an admonition?
+
+## table
+
+| foo | bar |
+| --- | --- |
+| baz | bim |
