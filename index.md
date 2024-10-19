@@ -1,2 +1,5 @@
 # Esto es el index
-Lorem ipsum. [Readme page](readme)
+Lorem ipsum. [About page](about)
+
+> [!TIP]
+> Is this an admonition?
