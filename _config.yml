@@ -1,8 +1,8 @@
 # _config.yml
 
-title: My Jekyll Site
-description: This is my Jekyll site.
+# title: My Jekyll Site
+# description: This is my Jekyll site.
 # baseurl: ""  # Adjust this if your site is in a subfolder, like "/your-repo"
 # url: "https://your-username.github.io"  # Your GitHub Pages URL
 
-theme: minima  # Add a theme if you'd like to use one
+theme: hacker  # Add a theme if you'd like to use one
